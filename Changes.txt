@@ -1,0 +1,13 @@
+* Log.txt in: C:\Users\<user>\AppData\Roaming\Ableton\Live x.x.x\Preferences
+
+
+- Mixer buttons first row: alternate between mute or solo tracks.
+- Mixer sliders: display track info or not (useful to be able to see encoder changes while moving a slider).
+- Mixer butons second row: alternate between armed or selected tracks.
+
+- Effect encoders: disable leds and block parameter changes if device is disabled.
+- Effect butons second row: select device in chain.
+
+TODO:
+
+- Effect butons first row: light led when pushing the button.
